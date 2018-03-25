@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UController</string>
+    <string name="lamp1_on">Lamp1 On</string>
+    <string name="lamp1_off">Lamp1 Off</string>
+    <string name="lamp2_on">Lamp2 On</string>
+    <string name="lamp2_off">Lamp2 Off</string>
+    <string name="shutter_up">Shutter Up</string>
+    <string name="shutter_down">Shutter Down</string>
+    <string name="shutter_stop">Shtuuer Stopped</string>
+</resources>
